@@ -1,5 +1,10 @@
 {
   "Cities" : [
-    {"name" : "Tokyo", "population" : 13350000, "area" : 845}
+    {"name" : "Tokyo", "population" : 13185502, "area" : 844.66, "pic" : "<img src='tokyo.png'/>"},
+    {"name" : "New York", "population" : 8491079, "area" : 468.9, "pic" : "<img src='newYork.png'/>"},
+    {"name" : "Chicago", "population" : 2695598, "area" : 234, "pic" : "<img src='chicago.png'/>"},
+    {"name" : "Minneapolis", "population" : 382578, "area" : 58.4, "pic" : "<img src='minneapolis.png'/>"},
+    {"name" : "Seattle", "population" : 608660, "area" : 142.5, "pic" : "<img src='seattle.png'/>"},
+    {"name" : "San Diego", "population" : 1345895, "area" : 372.4, "pic" : "<img src='sanDiego.png'/>"}
   ]
 }
